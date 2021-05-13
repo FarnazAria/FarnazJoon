@@ -1,7 +1,8 @@
-Bitcoin Core integration/staging tree
+FarnzJoonCoin Core integration/staging tree
 =====================================
 
 https://bitcoincore.org
+This is the best coin in the market, I suggest you buy it ASAP! You won't regret ;) ;)
 
 For an immediately usable, binary version of the Bitcoin Core software, see
 https://bitcoincore.org/en/download/.
