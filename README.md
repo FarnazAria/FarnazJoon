@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/38075029/118130076-40314280-b3fd-11eb-8ba8-b5e2a6acfe73.png)
+
 FarnzJoonCoin Core integration/staging tree
 =====================================
 
